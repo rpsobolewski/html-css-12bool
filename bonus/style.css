@@ -7,7 +7,14 @@
 .black{background-color: black;}
 .red{background-color: red;}
 .gray{background-color: lightgray;}
+.green{background-color: #00e165;}
+.blue{background-color: #001533;}
 
 [class^="col"]{
     padding:0 ;
+}
+
+.rotate{
+    transform: rotate(-45deg);
+    margin-top: 300px;
 }
